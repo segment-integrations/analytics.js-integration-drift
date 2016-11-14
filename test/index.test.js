@@ -10,7 +10,7 @@ describe('Drift', function() {
   var analytics;
   var drift;
   var options = {
-    embedId: 'buvw2r8z43np-dev'
+    embedId: 'k9p85t28zb2s'
   };
 
   beforeEach(function() {
