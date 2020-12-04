@@ -1,4 +1,9 @@
 
+2.1.0 / 2020-12-04
+==================
+
+  * Send analytics integration options to drift identify
+
 2.0.1 / 2016-07-25
 ==================
 
